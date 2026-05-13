@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">Pashu-Aahar</string>
+    <string name="app_title">Pashu-Aahar</string>
+    <string name="app_subtitle">Smart Cattle Nutrition Calculator</string>
+
+    <string name="input_header">Enter Cattle Details</string>
+    <string name="select_breed">Select Cow Breed</string>
+    <string name="cow_age">Cow Age (Years)</string>
+    <string name="cow_weight">Cow Weight (kg)</string>
+    <string name="milk_yield">Daily Milk Yield (Liters)</string>
+    <string name="generate_feed">Generate Feed Plan</string>
+
+    <string name="feed_result_title">Recommended Feed Plan</string>
+    <string name="back_to_home">Calculate Again</string>
+
+    <string name="breed_jersey">Jersey</string>
+    <string name="breed_desi">Desi</string>
+    <string name="breed_hf">Holstein Friesian</string>
+
+    <string name="breed_format">Breed: %1$s</string>
+    <string name="summary_format">Age: %1$s yrs | Weight: %2$s kg | Yield: %3$s L</string>
+
+    <!-- Feed Recipe Strings -->
+    <string name="total_feed">Total Feed Requirement</string>
+    <string name="maize_label">Maize (50%)</string>
+    <string name="cottonseed_label">Cottonseed Cake (30%)</string>
+    <string name="mineral_mix_label">Mineral Mix (20%)</string>
+
+    <string name="kg_unit_format">%1$s kg</string>
+
+    <string name="recommendation_header">Expert Recommendation</string>
+    <string name="recommendation_note">Balanced nutrition improves milk productivity. Provide clean water 24/7.</string>
+    <string name="motivational_quote">"Healthy Cattle, Wealthy Farmer."</string>
+
+    <string name="fill_all_fields">Please fill all cattle details</string>
+    <string name="invalid_input">Please enter valid numeric values</string>
+
+    <string name="tips_header">Expert Farming Tips</string>
+    <string name="tip_vet">Regular Vet\nCheckups</string>
+    <string name="tip_water">Clean Drinking\nWater</string>
+    <string name="tip_fodder">Seasonal\nFodder Tips</string>
+
+    <string name="nutrition_recipe_header">Daily Nutrition Recipe</string>
+
+    <!-- Cost Comparison Strings -->
+    <string name="view_cost_savings">View Cost Savings</string>
+    <string name="cost_comparison_title">Feed Cost Comparison</string>
+    <string name="homemade_cost_label">Homemade Feed Cost</string>
+    <string name="market_cost_label">Market Feed Cost</string>
+    <string name="total_savings_label">Total Daily Savings</string>
+    <string name="currency_format">₹ %1$s</string>
+    <string name="cost_motivational_msg">Smart feeding increases farmer profits.</string>
+    <string name="back_to_main">Back to Home</string>
+
+    <!-- Chart Strings -->
+    <string name="view_savings_analytics">View Savings Analytics</string>
+    <string name="chart_title">Monthly Feed Savings Analysis</string>
+    <string name="chart_motivation_msg">Scientific feeding improves rural dairy profits.</string>
+    <string name="label_homemade">Homemade</string>
+    <string name="label_market">Market</string>
+    <string name="label_savings">Savings</string>
+
+    <!-- Veterinary Tips Strings -->
+    <string name="vet_tips_title">Veterinary Care Tips</string>
+    <string name="search_tips_hint">Search for tips...</string>
+    <string name="vet_tips_btn">Veterinary Tips</string>
+    <string name="vet_motivation_quote">"Healthy cattle create prosperous farmers."</string>
+
+    <string name="tip_title_water">Clean Drinking Water</string>
+    <string name="tip_desc_water">Ensure cows have access to fresh, clean water 24/7 for optimal milk production.</string>
+
+    <string name="tip_title_vaccination">Regular Vaccination</string>
+    <string name="tip_desc_vaccination">Timely vaccination against FMD, HS, and BQ is crucial for cattle health.</string>
+
+    <string name="tip_title_storage">Proper Fodder Storage</string>
+    <string name="tip_desc_storage">Store dry fodder in a moisture-free area to prevent fungal growth and spoilage.</string>
+
+    <string name="tip_title_hygiene">Shed Hygiene</string>
+    <string name="tip_desc_hygiene">Keep the cattle shed dry and clean to prevent infections like mastitis.</string>
+
+    <string name="tip_title_minerals">Mineral Supplements</string>
+    <string name="tip_desc_minerals">Include 50g of mineral mixture daily to improve immunity and reproduction.</string>
+
+    <string name="tip_title_deworming">Deworming Schedule</string>
+    <string name="tip_desc_deworming">Deworm your cattle every 3–4 months to maintain health and weight.</string>
+
+    <string name="tip_title_heat">Heat Stress Management</string>
+    <string name="tip_desc_heat">Provide fans and mist during summer to keep cows cool and prevent drop in yield.</string>
+
+    <string name="tip_title_milking">Clean Milking Practices</string>
+    <string name="tip_desc_milking">Always wash the udder and hands before milking to ensure high-quality milk.</string>
+
+    <!-- Feed History Strings -->
+    <string name="feed_history_title">Feed History</string>
+    <string name="view_feed_history">View Feed History</string>
+    <string name="no_history_msg">No feed reports generated yet.</string>
+    <string name="clear_history">Clear All</string>
+    <string name="delete_report">Delete</string>
+    <string name="share_report">Share</string>
+    <string name="history_search_hint">Search by breed...</string>
+    <string name="report_shared_msg">Report shared successfully</string>
+    <string name="report_format">
+Pashu-Aahar Feed Report
+----------------------
+Breed: %1$s
+Age: %2$s years
+Weight: %3$s kg
+Milk Yield: %4$s L
+----------------------
+Total Feed: %5$s kg
+Maize: %6$s kg
+Cottonseed Cake: %7$s kg
+Mineral Mix: %8$s kg
+----------------------
+Date: %9$s
+    </string>
+
+    <!-- Smart Suggestion Strings -->
+    <string name="smart_suggestion_title">Smart Feed Optimization</string>
+    <string name="smart_optimization_btn">Smart Optimization</string>
+    <string name="expert_advice_header">Expert Advice</string>
+    <string name="advice_protein">• Protein Boost: Add 500g of Mustard cake during lactation.</string>
+    <string name="advice_hydration">• Hydration: Ensure 30-40 liters of clean water daily.</string>
+    <string name="advice_mineral">• Mineral Mix: Never skip the 50g daily mineral supplement.</string>
+    <string name="total_potential_monthly_savings">Total Potential Monthly Savings</string>
+    <string name="apply_optimized_plan">Apply Optimized Feed Plan</string>
+    <string name="suggestion_card_format">%1$s ➔ %2$s</string>
+    <string name="est_savings_format">Est. Savings: ₹ %1$s</string>
+    <string name="plan_applied_msg">Optimized Feed Plan Applied!</string>
+
+    <!-- Stepper UI Strings -->
+    <string name="step_1_title">Step 1: Select Breed</string>
+    <string name="step_2_title">Step 2: Enter Cow Age</string>
+    <string name="step_3_title">Step 3: Enter Cow Weight</string>
+    <string name="step_4_title">Step 4: Enter Milk Yield</string>
+    <string name="step_5_title">Step 5: Review &amp; Generate</string>
+    <string name="step_count_format">%1$d of 5</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_previous">Previous</string>
+    <string name="info_collected">All information collected!</string>
+    <string name="ready_to_generate">Ready to generate your feed plan.</string>
+    <!-- Video Section Labels -->
+    <string name="video_tutorials_title">Video Tutorials</string>
+    <string name="watch_prefix">▶ Watch:</string>
+    <string name="tip_hygiene">Hygiene &amp; Water</string>
+    <string name="tip_mastitis">Mastitis Prevention</string>
+    <string name="tip_deworming">Deworming Protocol</string>
+    <string name="tip_hoof">Hoof Management</string>
+</resources>

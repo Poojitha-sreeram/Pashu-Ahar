@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Green Palette -->
+    <color name="primaryGreen">#2E7D32</color>
+    <color name="primaryLightGreen">#E8F5E9</color>
+    <color name="primaryDarkGreen">#1B5E20</color>
+
+    <!-- Accent and Earthy Tones -->
+    <color name="accentBrown">#8D6E63</color>
+    <color name="lightEarth">#EFEBE9</color>
+    <color name="yellowGold">#FBC02D</color>
+
+    <!-- Backgrounds and Text -->
+    <color name="backgroundWhite">#FAFAFA</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+
+    <!-- Gradients -->
+    <color name="gradientStart">#43A047</color>
+    <color name="gradientEnd">#1B5E20</color>
+</resources>

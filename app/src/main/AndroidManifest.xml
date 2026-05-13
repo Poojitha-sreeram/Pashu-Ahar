@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PashuAhar"
+        tools:targetApi="31">
+
+        <!-- Splash Screen: The entry point of the app -->
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.PashuAhar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Main Calculator Input Screen -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+
+        <!-- Nutrition Results Display -->
+        <activity
+            android:name=".ResultActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+
+        <!-- Cost Breakdown and Comparison -->
+        <activity
+            android:name=".CostComparisonActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+
+        <!-- MPAndroidChart Analytics Graph -->
+        <activity
+            android:name=".SavingsChartActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+
+        <!-- List of Veterinary Tips -->
+        <activity
+            android:name=".VeterinaryTipsActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+
+        <!-- Detailed Veterinary Tip Guidance (New) -->
+        <activity
+            android:name=".TipDetailActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+
+        <!-- Feed History Log -->
+        <activity
+            android:name=".FeedHistoryActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+
+        <!-- AI/Smart Suggestions for Cheaper Feed -->
+        <activity
+            android:name=".SmartSuggestionActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".VideoReferenceActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+
+    </application>
+
+</manifest>
