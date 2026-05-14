@@ -5,6 +5,16 @@ The app helps farmers generate optimized cattle feed plans, calculate nutrition 
 
 ---
 
+# 📹 Demo
+
+Watch the demo video to see the app in action:
+
+[![Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-blue?style=for-the-badge)](https://github.com/Poojitha-sreeram/Pashu-Ahar/blob/main/demo%20(1).mp4)
+
+Or view it directly: [demo (1).mp4](https://github.com/Poojitha-sreeram/Pashu-Ahar/blob/main/demo%20(1).mp4)
+
+---
+
 # ✨ Features
 
 - Breed-based feed calculation
